@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 primeira linha do arquivo
 
 Outra alteraÁ„o 
-=======
->>>>>>> parent of 2648932... Colcamos qualquer frase para compreender melhor como funciona a baga√ßa
